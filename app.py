@@ -121,7 +121,7 @@ def get_twitter_token():
         return token
     except FileNotFoundError: console.error("tokens.txt file not found."); return None
 
-proxy_url = "user-10014987_25-country-US:JGRLQGge2DS6p@geo.iproyal.vip:8888"
+proxy_url = "ADD YOUR PROXY "
 
 def create_session_with_proxy():
     ses = tls_client.Session(client_identifier="chrome_131", random_tls_extension_order=True)

@@ -1,2 +1,2 @@
 # streamlabs-nitro-gen
-Streamlabs 1 month promo discord nitro gen
+> StreamLabs Discord 1m Nitro promo gen
